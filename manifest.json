@@ -1,0 +1,11 @@
+{
+    "name": "Task helper",
+    "description": "Base Level Extension",
+    "version": "1.0",
+    "manifest_version": 3,
+    "permissions": ["scripting", "activeTab"],
+    "action": {
+      "default_popup": "taskshelper.html",
+      "default_icon": "logo.png"
+    }
+}
