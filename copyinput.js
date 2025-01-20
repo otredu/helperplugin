@@ -5,7 +5,7 @@ let myTasks = [
     "työssäoppiminen",
     "kv-vastaava",
     "oppimisympäristön ylläpito",
-    "yhteistyö (Tredun sisäinen)",
+    "yhteistyöpalaveri",
     "yritysyhteistyö",
     "kouluttautuminen",
     "sijaistus",
