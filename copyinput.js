@@ -1,17 +1,17 @@
 let myTasks = [
     "lähiopetus",
-    "opetus/ohjaus",
-    "opetuksen suunnittelu",
-    "arviointi",
+    "rästien ohjaaminen",
     "omaopettaja",
-    "kv-vastaava",
     "työssäoppiminen",
+    "kv-vastaava",
     "oppimisympäristön ylläpito",
-    "yhteistyö (Tredu)",
-    "yhteistyö (muu)",
+    "yhteistyö (Tredun sisäinen)",
+    "yritysyhteistyö",
     "kouluttautuminen",
     "sijaistus",
-    "virkavapaa"
+    "virkavapaa",
+    "opetuksen suunnittelu",
+    "arviointi",
 ]
 
 let selectedTexts = ""
